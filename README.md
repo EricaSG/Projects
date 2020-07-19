@@ -1,4 +1,4 @@
-#Repository: dsc-mod-1-project-v2-1-onl01-dtsc-ft-041320
+# Repository: dsc-mod-1-project-v2-1-onl01-dtsc-ft-041320
 ## Project Task
 Microsoft has decided to create a new movie studio, but the problem is they don’t know anything about creating movies. Your team is charged with doing **data analysis and creating a presentation** that explores what type of films are currently doing the best at the box office. You must then **translate those findings into actionable insights** that the CEO can use when deciding what type of films they should be creating.
 ## Deliverables
