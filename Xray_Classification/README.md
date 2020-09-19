@@ -6,6 +6,15 @@
 ## Purpose
 The scope of this project is to build a model that can classify whether a given patient has pneumonia, given a chest x-ray image. 
 
+## Other Resources
+#### Non Technical Presentation
+https://www.youtube.com/watch?v=tO3uWGehqHg
+
+#### Blog
+**Technical:** https://medium.com/analytics-vidhya/computer-vision-and-pneumonia-detection-part-1-technical-4e3592de208b?source=friends_link&sk=665a349b71fc55dce132f6a28cfa5ef9
+
+**Analysis:** https://medium.com/@gabriel.erica3/computer-vision-and-pneumonia-detection-part-2-analysis-6eec56d2cc69
+
 ## Case Background and Description of Data
 The x-rays were provided by the Guangzhou Women and Children’s Medical Center in Guangzhou, China, on patients ranging from ages 1–5 years old. The image set contains images of “Normal”, “Viral” & “Bacterial” Pneumonia, classified into 2 categories: “Normal”and “Pneumonia”. There were 1341 Normal scans and 3875 Pneumonia scans. All unreadable and poor quality scans were removed prior to providing the dataset. In order to simulate  a real world scenario, I added 2534 additional images, and augmented them to reflect real world scenarios- blurry, distorted images, shifted/rotated images, and images that are zoomed in and out of focus.
 Files: 
