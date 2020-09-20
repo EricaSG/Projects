@@ -93,7 +93,7 @@ The results of the pretrained model, faired the same as the results from my fina
 
 ## Exploratory Data Analysis
 
-### Question 1: WHat are the Pros and Cons of Using X-rays for Detection?
+### Question 1: What are the Pros and Cons of Using X-rays for Detection?
 
 #### Findings
  **Pros:**
