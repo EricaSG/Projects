@@ -13,7 +13,7 @@ Microsoft has decided to create a new movie studio, but the problem is they donâ
 
 # Repository: https://github.com/EricaSG/dsc-mod-2-project-v2-1-onl01-dtsc-ft-041320
 ## Project Task
-For this project, you'll be working with the King County House Sales dataset. The dataset can be found in the file **"kc_house_data.csv"**, in this repo. **Clean, explore, and model this dataset with a multivariate linear regression to predict the sale price of houses as accurately as possible**.
+Using the King County House Sales dataset, **clean, explore, and model this dataset with a multivariate linear regression to predict the sale price of houses as accurately as possible**.
 ## Deliverables
 * 5 Jupyter Notebooks
 * README.md
